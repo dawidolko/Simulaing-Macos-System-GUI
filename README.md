@@ -14,7 +14,7 @@ Programming-Services-Computer-Cloud to repozytorium poświęcone programowaniu u
 
 Sklonuj repozytorium na swój lokalny komputer:
 ```
-git clone https://github.com/twojenazwauzytkownika/Programming-Services-Computer-Cloud.git
+git clone https://github.com/dawidolko/Programming-Services-Computer-Cloud.git
 ```
 
 Przeglądaj dostępne projekty, skrypty i materiały w odpowiednich folderach.
