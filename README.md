@@ -8,8 +8,6 @@ Programming-Services-Computer-Cloud is a repository dedicated to programming clo
 
 /Lab: This folder contains useful scripts and development tools that can make your work on creating cloud computing services easier.
 
-/Courses: Here you can find all sorts of educational materials such as presentations, tutorials, documentation and articles related to programming cloud computing services.
-
 ## **How ​​to start:**
 
 Clone the repository to your local computer:
