@@ -1,28 +1,63 @@
-# Programming-Services-Computer-Cloud
+# macos.dawidolko.pl
 
-## **Description:**
-Programming-Services-Computer-Cloud is a repository dedicated to programming cloud computing services. Here you will find example projects, scripts and educational materials related to building cloud-based services.
+My portfolio website simulating macOS's GUI: https://portfolio.zxh.io
 
-## **Repository Structure:**
-/Projects: This folder contains various projects that use cloud computing development. Each project has its own folder with description and source code.
+Powered by [React](https://reactjs.org/) + [Zustand](https://zustand-demo.pmnd.rs/) + [UnoCSS](https://uno.antfu.me/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/).
 
-/Lab: This folder contains useful scripts and development tools that can make your work on creating cloud computing services easier.
+![light mode](./public/screenshots/light.png)
+![dark mode](./public/screenshots/dark.png)
 
-## **How ​​to start:**
 
-Clone the repository to your local computer:
+&nbsp;
+
+## Usage
+
+Clone the repo and install dependencies:
+
+```bash
+pnpm install
 ```
-git clone https://github.com/dawidolko/Programming-Services-Computer-Cloud.git
+
+Start dev server (with hot reloading):
+
+```bash
+pnpm dev
 ```
 
-Browse available projects, scripts and materials in their respective folders.
+Build for production with minification to the `dist` folder:
 
-Try out the source code and experiment with programming cloud computing services based on the available examples.
+```bash
+pnpm build
+```
 
-## **System requirements**
-To start developing cloud computing services, you will need the right tools and frameworks, such as Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP). Make sure you have the required tools installed according to your chosen platform.
 
-## **Contributions and Support**
-If you want to contribute to this repository, you can report issues, create pull requests or share your own cloud computing development projects. Any contributions are welcome!
+&nbsp;
 
-If you have any questions or need help, please contact me via email or GitHub.
+## Changelog
+
+- **Update 2023.06.26**: Improve [FaceTime](https://support.apple.com/en-us/HT208176).
+
+- **Update 2023.06.25**: Add [Typora](https://typora.io/), built on top of [Milkdown](https://milkdown.dev/).
+
+- **Update 2021.12.05**: Simulated the device's actual battery state using [Battery API](https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API), displaying 100% charge on [unsupported browsers](https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API#browser_compatibility).
+
+- **Update 2021.12.05**: Refactored for cleaner code by utilizing functional components and hooks. Refer to [this branch](https://github.com/Renovamen/playground-macos/tree/class-component) for the previous version implemented with class components.
+
+
+&nbsp;
+
+## Credits
+
+- macOS
+  - [Monterey](https://www.apple.com/macos/monterey/)
+  - [Catalina](https://www.apple.com/bw/macos/catalina/)
+- [macOS Icon Gallery](https://www.macosicongallery.com/)
+- [sindresorhus/file-icon-cli](https://github.com/sindresorhus/file-icon-cli)
+- [vivek9patel.github.io](https://github.com/dawidolko/Simulaing-Ubuntu-System-GUI)
+
+
+&nbsp;
+
+## License
+
+[MIT](MIT)
