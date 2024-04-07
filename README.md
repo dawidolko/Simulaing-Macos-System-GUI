@@ -1,5 +1,43 @@
 # macos.dawidolko.pl
 
+```
+.
+├── .github
+│ └── workflows
+├── .husky
+│ └── ...
+├── assets
+│ ├── img
+│ │ └── ...
+│ ├── logo
+│ │ └── ...
+│ └── music
+│ └── ...
+├── markdown
+│ └── ...
+├── public
+│ ├── screenshots
+│ │ └── ...
+│ └── ...
+├── src
+│ └── ...
+├── .editorconfig
+├── .eslintrc
+├── .gitattributes
+├── .gitignore
+├── .nojekyll
+├── CNAME
+├── index.html
+├── LICENSE
+├── manifest.json
+├── package.json
+├── pnpm-lock.yaml
+├── README.md
+├── tsconfig.json
+├── unocss.config.ts
+└── vite.config.ts
+```
+
 My portfolio website simulating macOS's GUI: https://macos.dawidolko.pl
 
 Powered by [React](https://reactjs.org/) + [Zustand](https://zustand-demo.pmnd.rs/) + [UnoCSS](https://uno.antfu.me/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/).
